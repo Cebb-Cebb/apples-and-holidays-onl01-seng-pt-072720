@@ -25,9 +25,10 @@ end
 
 def add_supply_to_winter_holidays(holiday_hash, supply)
   holiday_hash.each do |season, holidays_name|
+    binding.pry
     if season  == :winter 
       holidays_name.each do |
-      binding.pry
+      
 
   
   

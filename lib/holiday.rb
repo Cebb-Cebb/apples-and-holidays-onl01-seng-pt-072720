@@ -37,6 +37,7 @@ def add_supply_to_winter_holidays(holiday_hash, supply)
   # Christmas AND the New Year's arrays
 
 end
+end
 
 
 def add_supply_to_memorial_day(holiday_hash, supply)

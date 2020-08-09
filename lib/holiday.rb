@@ -23,8 +23,7 @@ end
 
 def add_supply_to_winter_holidays(holiday_hash, supply)
   binding.pry
-  holiday_hash[:winter][:christmas] = "Ballons"
-  holiday_hash[:winter][:new_years] = "Ballons"
+
   
   
   # holiday_hash is identical to the one above
